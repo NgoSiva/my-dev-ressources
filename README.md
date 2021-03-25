@@ -9,26 +9,27 @@
 
 
 ## Dev Docs
-
 | Website | Description |
 | ------- | ----------- |
 | [DevDocs.io](https://devdocs.io/)  | multiple API documentations |
 | [Devhints](https://devhints.io/)  | dev cheatsheets |
 
 ## CSS tools
-
 | Website | Description |
 | ------- | ----------- |
 | [Animista](https://animista.net/)  | css animations on demand |
+| [CSS collection](https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40)  | 100 underline/overlay animations |
 | [Css effects](https://emilkowalski.github.io/css-effects-snippets/)  | css effects |
+| [Glassmorphism generator](https://glassmorphism.com/)  | Glassmorphism CSS generator |
+| [Css Grid Generator](https://grid.layoutit.com/)  | Interactive Css Grid Generator |
 
 ## Design
 | Website | Description |
 | ------- | ----------- |
-| [Checklist Design](https://www.checklist.design/)  | collection of the best design practices. |
+| [Checklist Design](https://www.checklist.design/)  | collection of the best design practices |
+| [Happy Hues](https://www.happyhues.co/)  | color palette inspiration site |
 
 ## Graphics
-
 | Website | Description |
 | ------- | ----------- |
 | [Shape Divider Appy](https://www.shapedivider.app/)  | generate sleek dividers for your website |
