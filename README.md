@@ -27,6 +27,8 @@
 | Website | Description |
 | ------- | ----------- |
 | [Checklist Design](https://www.checklist.design/)  | collection of the best design practices |
+| [DB designer](https://app.dbdesigner.net/)  | db design | 
+| [wireframe](https://wireframe.cc/)  | wireframe |
 | [Happy Hues](https://www.happyhues.co/)  | color palette inspiration site |
 
 ## Graphics
