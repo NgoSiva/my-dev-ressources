@@ -37,7 +37,6 @@
 | [Shape Divider Appy](https://www.shapedivider.app/)  | generate sleek dividers for your website |
 | [Remove Bg](https://www.remove.bg/)  | remove image background |
 | [Remove Video Bg](https://www.unscreen.com/)  | remove video background |
-| [Freellustrations](https://freellustrations.com/)  | free illustrations background images |
 | [Squoosh](https://squoosh.app/)  | compress your images |
 | [SVGOMG](https://jakearchibald.github.io/svgomg/)  | optimize SVG vector graphics files |
 
