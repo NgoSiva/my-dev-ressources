@@ -18,6 +18,7 @@
 | Website | Description |
 | ------- | ----------- |
 | [Animista](https://animista.net/)  | css animations on demand |
+| [Scroll-driven Animations](https://scroll-driven-animations.style/)  | A bunch of demos and tools to show off Scroll-driven Animations |
 | [CSS collection](https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40)  | 100 underline/overlay animations |
 | [Css effects](https://emilkowalski.github.io/css-effects-snippets/)  | css effects |
 | [Glassmorphism generator](https://glassmorphism.com/)  | Glassmorphism CSS generator |
