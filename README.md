@@ -5,6 +5,7 @@
 - [CSS tools](#css-tools)
 - [Design](#design)
 - [Graphics](#graphics)
+- [Optimization](#optimization)
 - [Collaborative Tools](#collaborative-tools)
 
 
@@ -38,9 +39,14 @@
 | [Shape Divider Appy](https://www.shapedivider.app/)  | generate sleek dividers for your website |
 | [Remove Bg](https://www.remove.bg/)  | remove image background |
 | [Remove Video Bg](https://www.unscreen.com/)  | remove video background |
+
+## Optimization
+| Website | Description |
+| ------- | ----------- |
 | [Squoosh](https://squoosh.app/)  | compress your images |
 | [SVGOMG](https://jakearchibald.github.io/svgomg/)  | optimize SVG vector graphics files |
-
+| [Website Image analysis](https://webspeedtest.cloudinary.com/)  | Website Image Analysis Tool |
+| [PageSpeed Insights](https://pagespeed.web.dev/)  | Website speed Analysis  |
 
 ## Collaborative Tools
 | Website | Description |
