@@ -6,6 +6,7 @@
 - [Design](#design)
 - [Graphics](#graphics)
 - [Optimization](#optimization)
+- [Accessibility](#accessibility)
 - [Collaborative Tools](#collaborative-tools)
 
 
@@ -46,7 +47,14 @@
 | [Squoosh](https://squoosh.app/)  | compress your images |
 | [SVGOMG](https://jakearchibald.github.io/svgomg/)  | optimize SVG vector graphics files |
 | [Website Image analysis](https://webspeedtest.cloudinary.com/)  | Website Image Analysis Tool |
-| [PageSpeed Insights](https://pagespeed.web.dev/)  | Website speed Analysis  |
+| [PageSpeed Insights](https://pagespeed.web.dev/)  | Website speed Analysis |
+
+## Accessibility
+| Website | Description |
+| ------- | ----------- |
+| [W3 easy checks](https://www.w3.org/WAI/test-evaluate/preliminary/)  | A first review of web accessibility |
+| [Orange recommendations](https://a11y-guidelines.orange.com/fr/)  | orange web accessibility recommandations |
+
 
 ## Collaborative Tools
 | Website | Description |
