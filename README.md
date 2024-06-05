@@ -15,6 +15,7 @@
 | ------- | ----------- |
 | [DevDocs.io](https://devdocs.io/)  | multiple API documentations |
 | [Devhints](https://devhints.io/)  | dev cheatsheets |
+| [Javscript info](https://fr.javascript.info/)  | javascript tuto |
 
 ## CSS tools
 | Website | Description |
